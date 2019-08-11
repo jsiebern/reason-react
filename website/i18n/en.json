@@ -20,8 +20,11 @@
       "component-as-prop": {
         "title": "Component as Prop"
       },
+      "components": {
+        "title": "Components"
+      },
       "context-mixins": {
-        "title": "Context & Mixins?"
+        "title": "Context & Mixins"
       },
       "counter": {
         "title": "Counter"
@@ -71,6 +74,9 @@
       "js-using-reason": {
         "title": "ReactJS using ReasonReact"
       },
+      "jsx-2": {
+        "title": "JSX Record API"
+      },
       "jsx": {
         "title": "JSX"
       },
@@ -92,11 +98,17 @@
       "record-field-send-handle-not-found": {
         "title": "Record Field send/handle Not Found"
       },
+      "refs": {
+        "title": "Refs in React"
+      },
       "render": {
         "title": "Render"
       },
       "roadmap": {
         "title": "Roadmap & Contribution"
+      },
+      "router-2": {
+        "title": "Router"
       },
       "router": {
         "title": "Router"
@@ -119,6 +131,9 @@
       "ternary-shortcut": {
         "title": "Ternary Shortcut"
       },
+      "use-state-use-effect": {
+        "title": "Use State and Use Effect"
+      },
       "what-and-why": {
         "title": "What & Why"
       }
@@ -135,6 +150,7 @@
       "Getting Started": "Getting Started",
       "Core": "Core",
       "ReactJS Idioms Equivalents": "ReactJS Idioms Equivalents",
+      "Record API [frozen api]": "Record API [frozen api]",
       "FAQ": "FAQ",
       "Code Snippets": "Code Snippets",
       "Community": "Community",
